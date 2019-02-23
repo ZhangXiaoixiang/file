@@ -7,7 +7,7 @@ import java.io.InputStream;
 
 /**
  * FileInputStreamDemo
- * 字节输入流
+ * 字节输入流---读
  * 1创建对象
  * 2调用方法循环读取
  * 3关闭流
