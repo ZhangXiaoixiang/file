@@ -10,7 +10,10 @@ import java.io.File;
  * @version 1.0
  */
 public class FileDemo {
-
+    /**
+     * 查询信息
+     * @param file
+     */
     public void showFlieInfo(File file) {
         System.out.println("----------注意路径转义的问题-------------");
 //        判断File是否属于文件或者目录
